@@ -1,0 +1,2 @@
+# azuredev
+azuredevops_project
